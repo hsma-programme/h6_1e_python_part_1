@@ -18,3 +18,5 @@ Open Exercise 3 in Google Colab: <a target="_blank" href="https://colab.research
 Open Exercise 4 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_1e_python_part_1/blob/main/1e_python_programming_part_1/1e_4.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Note: when you first run a cell, you will need to click 'run anyway' in the popup that appears. This is a standard pop-up that appears for any notebook you haven't created from scratch yourself!
